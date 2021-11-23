@@ -33,6 +33,9 @@ All NPM use for this projet :
 - jsonwebtoken
 - mongoose
 - nodemon
+- i18next
+- i18next-fs-backend
+- i18next-http-middleware
 
 # Install 
 
